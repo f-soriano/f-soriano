@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francis (@f-soriano)
-- 👀 I’m interested in data analysis, particularly geospatial data analysis!
+- 👀 I’m interested in data analysis, particularly geospatial data analysis, through an environmental context!
 - 🌱 I’m currently learning GIS (ArcGIS Pro and QGIS), automating workflows with Python, creating maps through graphics editor programs (Adobe Illustrator).
 - 📫 You can reach me via LinkedIn at: linkedin.com/in/francis-soriano 
 
